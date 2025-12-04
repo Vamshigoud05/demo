@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-04 07:36:45</sys_created_on>
+        <sys_id>fdca99a283297e504a26e430ceaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1558372_demo_demo.x_1558372_demo.demo_user</sys_name>
+        <sys_package display_value="demo" source="x_1558372_demo">64b7192a83e57e504a26e430ceaad3c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo">64b7192a83e57e504a26e430ceaad3c3</sys_scope>
+        <sys_security_acl display_value="x_1558372_demo_demo">39ca99a283297e504a26e430ceaad39f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fdca99a283297e504a26e430ceaad3c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-04 07:36:45</sys_updated_on>
+        <sys_user_role display_value="x_1558372_demo.demo_user" name="x_1558372_demo.demo_user">51ca19a283297e504a26e430ceaad306</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
